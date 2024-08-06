@@ -213,6 +213,8 @@
                             "opus/celt/arm/celt_neon_intr.c",
                             "opus/celt/arm/pitch_neon_intr.c",
                             "opus/silk/arm/LPC_inv_pred_gain_neon_intr.c",
+                            "opus/silk/arm/NSQ_del_dec_neon_intr.c",
+                            "opus/silk/arm/NSQ_neon.c",
                         ],
                         "include_dirs": [
                             "opus",
